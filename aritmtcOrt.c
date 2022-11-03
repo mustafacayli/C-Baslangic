@@ -4,9 +4,9 @@ int main ( ) {
 	
 	int a,b,c,d,e;
 	
-	float aritmetik
+	float aritmetik;
 	
-	;printf(" Bes tane sayi giriniz");
+	printf(" Bes tane sayi giriniz");
 	
 	scanf("%d %d %d %d %d",&a,&b,&c,&d,&e);
 	aritmetik = (a+b+c+d+e)/5.0;
