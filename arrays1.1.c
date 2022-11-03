@@ -18,7 +18,7 @@ int main(){
 		
 		
 	}
-	printf("Girdiðiniz sayilarin aritmetik ortalamasi %.2f dir",toplam / 5);
+	printf("GirdiÃ°iniz sayilarin aritmetik ortalamasi %.2f dir",toplam / 5);
 	
 	
 	
