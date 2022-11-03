@@ -67,7 +67,7 @@ int main() {
 
 
 	/*
-	switch case'de break bulana kadar case case dolaþýr
+	switch case'de break bulana kadar case case dolaÅŸÄ±r
 	*/
 		
 		
