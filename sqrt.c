@@ -2,9 +2,9 @@
 #include<math.h>
 /*
 
-ax^2 + bx + c şeklindeki denklemin
+ax^2 + bx + c ÅŸeklindeki denklemin
 
-     sqrt=(karekök)
+     sqrt=(karekÃ¶k)
 
 */
 
